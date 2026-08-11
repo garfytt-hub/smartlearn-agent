@@ -1,0 +1,11 @@
+Python was created by Guido van Rossum and was first released in 1991. It was named after the British comedy group Monty Python. Guido wanted a language that was fun to use and easy to read.
+
+Python uses indentation to define code blocks instead of curly braces or keywords. This makes Python code visually clean and forces developers to write readable code. Most other languages use curly braces { } for this purpose.
+
+Python supports multiple programming paradigms including procedural, object-oriented, and functional programming. This flexibility allows developers to choose the best approach for their specific problem.
+
+The Python Package Index (PyPI) hosts over 400,000 third-party packages. Popular packages include NumPy for scientific computing, Django for web development, and TensorFlow for machine learning.
+
+Major companies that use Python include Google, Netflix, Instagram, and Spotify. Google uses Python for many internal tools, and YouTube's backend was originally written in Python.
+
+END
